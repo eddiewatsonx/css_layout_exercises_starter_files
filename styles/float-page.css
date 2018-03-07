@@ -10,3 +10,17 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.neb {
+
+	float: left;
+	margin-right: 15px;
+	width: 300px;
+}
+
+.star {
+
+	float: right;
+	margin-left: 15px;
+	width: 300px;
+}
